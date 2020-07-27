@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/kefimochi/kefimochi/blob/master/Transparent.png" alt="Illustration of Kate friendly showing a gun finger at the viewer" width=480px height=465px/>
+<img align="right" src="https://github.com/kefimochi/kefimochi/blob/master/Transparent.png" alt="Illustration of Kate friendly showing a gun finger at the viewer" width=320px height=300px />
 
 ### Hi there, I'm Kate! 👋
 
