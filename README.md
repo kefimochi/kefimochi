@@ -1,4 +1,4 @@
-<img align="right" src="https://pbs.twimg.com/media/EtfkXNGVoAA2HYP?format=jpg&name=large" alt="Illustration of Kate friendly showing a gun finger at the viewer" width=700px height=700px />
+<img src="https://pbs.twimg.com/media/EtfkXNGVoAA2HYP?format=jpg&name=large" alt="Illustration of Kate in full height looking down at a goose with a flower in it's beak" width=700px height=700px />
 
 ### Hi there, I'm Kate! 👋
 
