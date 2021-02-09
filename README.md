@@ -1,6 +1,6 @@
 <img align="right" src="https://pbs.twimg.com/media/EtfkXNGVoAA2HYP?format=jpg&name=large" alt="Illustration of Kate in full height looking down at a goose with a flower in it's beak" width="550px" />
 
-### Hi there, I'm Kate! 👋
+## Hi there, I'm Kate! 👋
 
 I’m a software engineer, writer and public speaker. Despite having artistic skills I lack basic imagination to finish this summary about myself #sorry #notsorry
 
