@@ -1,4 +1,4 @@
-<img align="right" src="https://pbs.twimg.com/media/EwTZsw5UcAI0jcx?format=jpg&name=large" alt="Illustration of Kate in full height looking down at a goose with a flower in it's beak" width="550px" />
+<img align="right" src="https://user-images.githubusercontent.com/47342588/119244589-fc3dec00-bb26-11eb-91a6-f6e038ae191c.jpg" alt="Illustration of Kate in full height looking down at a goose with a flower in it's beak" width="550px" />
 
 ## Hi there, I'm Kate! 👋
 
